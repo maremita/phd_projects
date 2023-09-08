@@ -1,1 +1,1 @@
-# phd_thesis
+# PhD thesis projects
