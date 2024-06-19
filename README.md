@@ -1,4 +1,5 @@
 # Approches variationnelles pour l'analyse des séquences génomiques évolutives
+### Amine Remita, Ph.D.
 
 Ma thèse de doctorat en informatique porte sur la classification des séquences nucléotidiques, la modélisation évolutive des données génomiques et l'inférence bayésienne des paramètres phylogénétiques. Ces domaines de l'analyse des séquences biologiques revêtent une importance cruciale pour notre compréhension de la diversité biologique et de l'évolution des espèces, d'autant plus dans le contexte actuel de la génomique où la quantité croissante de données génétiques nécessite des méthodes et des outils avancés. Plus concrètement, ces disciplines trouvent des applications essentielles dans l'annotation fonctionnelle et structurelle des génomes, la métagénomique pour explorer la diversité microbienne, la détection des pathogènes, la surveillance épidémiologique, notamment lors de pandémies telles que l'influenza et la COVID-19, la conception de vaccins et de médicaments, ainsi que la prédiction des résistances aux médicaments.
 
